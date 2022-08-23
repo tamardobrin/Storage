@@ -1,0 +1,10 @@
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\bin\Debug\Logic.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\bin\Debug\Logic.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\bin\Debug\DataStructures.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\bin\Debug\DataStructures.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\obj\Debug\Logic.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\obj\Debug\Logic.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\Logic\bin\Debug\Logic.dll.config

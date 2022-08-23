@@ -1,0 +1,6 @@
+C:\Users\דוברין\source\repos\ConsoleSorage\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\DataStructures\obj\Debug\DataStructures.pdb

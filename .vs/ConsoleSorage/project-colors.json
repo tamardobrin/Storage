@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16230974-dd11-4071-84f1-fab48981d311": {
+      "ProjectGuid": "16230974-dd11-4071-84f1-fab48981d311",
+      "DisplayName": "ConsoleSorage",
+      "ColorIndex": 0
+    },
+    "4da942e2-d629-4454-96e0-ec59ea5a0708": {
+      "ProjectGuid": "4da942e2-d629-4454-96e0-ec59ea5a0708",
+      "DisplayName": "DataStructures",
+      "ColorIndex": 1
+    },
+    "3c44496e-6da2-42cf-a848-873b0b86f1ef": {
+      "ProjectGuid": "3c44496e-6da2-42cf-a848-873b0b86f1ef",
+      "DisplayName": "Logic",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d0a014a2-5d02-437f-8fcf-99d49303ccde": {
+      "ProjectGuid": "d0a014a2-5d02-437f-8fcf-99d49303ccde",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

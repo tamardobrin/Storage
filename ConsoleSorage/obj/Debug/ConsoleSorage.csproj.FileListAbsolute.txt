@@ -1,0 +1,14 @@
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\ConsoleSorage.exe.config
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\ConsoleSorage.exe
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\ConsoleSorage.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\DataStructures.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\Logic.dll
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\DataStructures.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\Logic.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\obj\Debug\ConsoleSorage.csproj.AssemblyReference.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\obj\Debug\ConsoleSorage.csproj.SuggestedBindingRedirects.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\obj\Debug\ConsoleSorage.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\obj\Debug\ConsoleSorage.csproj.CopyComplete
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\obj\Debug\ConsoleSorage.exe
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\obj\Debug\ConsoleSorage.pdb
+C:\Users\דוברין\source\repos\ConsoleSorage\ConsoleSorage\bin\Debug\Logic.dll.config
